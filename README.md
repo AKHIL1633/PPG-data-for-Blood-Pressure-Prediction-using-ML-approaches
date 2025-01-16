@@ -18,6 +18,6 @@ This project leverages photoplethysmography (PPG) signals and machine learning t
  - **Labels**: Systolic and diastolic blood pressure.
 
 # Technologies Used
-  -**Programming Languages**: Python
-  -**Libraries**: PyWavelets, NumPy, SciPy, scikit-learn
-  -**Tools**: Visualization with Matplotlib or Seaborn for signal and result analysis.
+  - **Programming Languages**: Python
+  - **Libraries**: PyWavelets, NumPy, SciPy, scikit-learn
+  - **Tools**: Visualization with Matplotlib or Seaborn for signal and result analysis.

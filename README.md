@@ -21,3 +21,9 @@ This project leverages photoplethysmography (PPG) signals and machine learning t
   - **Programming Languages**: Python
   - **Libraries**: PyWavelets, NumPy, SciPy, scikit-learn
   - **Tools**: Visualization with Matplotlib or Seaborn for signal and result analysis.
+
+## 📈 Sample PPG Signal
+
+Below is a sample PPG waveform used in the preprocessing and feature extraction steps:
+
+![PPG Signal](ppg.jpg)
